@@ -7,3 +7,5 @@
 000500161129                          TRG(*NO)
 000501161129             OVRDBF     FILE(TMPDETORD) TOFILE(QTEMP/DETORD)
 000600170131             CRTORD     CUID(&CUID)
+000601190507             /* change for github */
+000602190507
